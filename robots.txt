@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /objednavka/uspech
+Disallow: /produkty
+
+Sitemap: https://lounge.boora.cz/sitemap.xml
