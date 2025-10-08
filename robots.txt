@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /objednavka/uspech
-Disallow: /produkty
+Disallow: /obchodni_podminky_Boora_lounge.pdf
 
 Sitemap: https://lounge.boora.cz/sitemap.xml
